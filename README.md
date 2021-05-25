@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HamidSaeed96
-- 👀 I’m interested in Laravel Developer
+- 👀 I’m interested in Laravel Web Developement
 - 🌱 I’m currently learning Coding
 - 💞️ I’m looking to collaborate on Laravel Web Development
 
